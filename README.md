@@ -56,6 +56,9 @@ In order to ensure that the Laravel community is welcoming to all, please review
 
 If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
 
+## PostMan Collection:
+https://api.postman.com/collections/43190892-0e9c0f3f-9dc4-44b4-bcee-e35eb2f2f210?access_key=PMAT-01JWC3C56MKCC83KC8J0MW50CT
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
